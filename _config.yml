@@ -13,21 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Developing Sound
-email: "leonardmreidy@gmail.com"
+author: Leonard M Reidy
+baseurl: "" # the subpath of your site, e.g. /blog
 description: >- # this means to ignore newlines until "baseurl:"
   Personal website of Leonard M Reidy.
-baseurl: "" # the subpath of your site, e.g. /blog
+email: "leonardmreidy@gmail.com"
+repository: "leonardreidy/leonardreidy.github.io"
+title: Developing Sound
 url: "https://leonardreidy.github.io"
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
-repository: "leonardreidy/leonardreidy.github.io"
-
-# Build settings
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
 
 # A list of the pages to display in the navigation bar
 header_pages:
@@ -39,3 +35,9 @@ exclude:
   - Gemfile.lock
   - node_modules
   - update_boostrap.sh
+
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
