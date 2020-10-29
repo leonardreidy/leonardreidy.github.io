@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bootstrap 4 Github Pages
+title: Developing Sound
 ---
 
 A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
