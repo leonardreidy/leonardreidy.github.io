@@ -1,20 +1,14 @@
+# Developing Sound
 
-# Boostrap 4 Github Pages
-
-[![Build Status](https://travis-ci.org/nicolas-van/bootstrap-4-github-pages.svg?branch=master)](https://travis-ci.org/nicolas-van/bootstrap-4-github-pages)
-
-A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
-
-* A full Bootstrap 4 theme usable both on Github Pages and with a standalone Jekyll.
-* Recompiles Bootstrap from SCSS files, which allows to customize Bootstrap's variables and use Bootstrap themes.
-* Full support of Bootstrap's JavaScript plugins.
-* Supports all features of Github Pages and Jekyll.
-
-[See the website for demonstration and documentation](https://nicolas-van.github.io/bootstrap-4-github-pages/).
-
-## Contribution
-
-[See the contribution guide.](./CONTRIBUTING.md)
+Welcome to Developing Sound, the personal website of Leonard M Reidy. I am a
+fullstack developer by day and a sound designer/electronic musician by night.
+The site is, for now, a basic profile. It should include my CV, for those who
+care and a portfolio of the projects that interest me most. As time goes on I
+may develop the site further, perhaps include a blog to track some of the most
+interesting projects I undertake which will likely include hardware and software 
+builds for midi controllers, various software-centric music projects with a 
+heavy emphasis on Max for Live devices, my experiences with Tidal and Max 8,
+and my ongoing study of the Supercollider environment and programming language.
 
 ## License
 
